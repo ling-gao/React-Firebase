@@ -1,0 +1,27 @@
+.react-calendar-timeline .rct-items .rct-item.analysis {
+  backgroundColor: 'green';
+}
+
+.react-calendar-timeline .rct-header .rct-label-group {
+  color: #ffffff !important;
+  background: rgb(32, 26, 22) !important;
+}
+
+.salon-image-uploader,
+.salon-image-uploader-trigger,
+.salon-image {
+  width: 150px;
+  height: 150px;
+}
+.salon-image-uploader {
+  display: block;
+  border: 1px dashed #d9d9d9;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.ant-upload>.salon-image-uploader-trigger {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 32px;
+  color: #999;
+}
